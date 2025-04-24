@@ -1,0 +1,15 @@
+[package]
+name = "techz"
+version = "2.0.0"
+authors = []
+
+[addresses]
+my_add='0xb03599a306423cb3722997ed48a620e3719c68f38c2344b63624f6f6e0200091'
+[dev-addresses]
+my_add='0xb03599a306423cb3722997ed48a620e3719c68f38c2344b63624f6f6e0200091'
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
