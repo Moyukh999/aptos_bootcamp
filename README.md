@@ -16,7 +16,9 @@ The goal is to bridge the motivation gap in education through gamified, blockcha
 
 ![image](https://github.com/user-attachments/assets/ccedf01c-a0ff-4cb5-9d28-b4405764643e)
 
-
+- **Module Name**: `LearningRewards`
+- **Deployed On**: Aptos Blockchain
+- **Contract Address**: `0xb03599a306423cb3722997ed48a620e3719c68f38c2344b63624f6f6e0200091`
 The smart contract handles:
 - Inventory of reward types
 - Authorized access for reward distribution
